@@ -1,0 +1,40 @@
+{
+    "name": "zx81basic",
+    "displayName": "ZX81-Basic",
+    "description": "ZX81 BASIC syntax highlighting",
+    "version": "1.0.4",
+    "publisher": "wilsonpilon",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "icon": "images/zx81basic.png",
+    "categories": [
+        "Programming Languages"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wilsonpilon/zx81-vscode.git"
+    },
+    "contributes": {
+        "languages": [
+            {
+                "id": "zx81basic",
+                "aliases": [
+                    "ZX81-Basic",
+                    "zx81basic"
+                ],
+                "extensions": [
+                    ".bas"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "zx81basic",
+                "scopeName": "source.zx81basic",
+                "path": "./syntaxes/zx81basic.tmLanguage.json"
+            }
+        ]
+    }
+}
