@@ -52,7 +52,7 @@ To change the colors to your liking, just edit `settings.json` global file and a
         "textMateRules": [
                 {
                     "scope": [
-                    "keyword.control.amstradbasic"
+                    "keyword.control.zx81basic"
                     ],
                     "settings": {
                         "foreground": "#79f109",
@@ -61,7 +61,7 @@ To change the colors to your liking, just edit `settings.json` global file and a
                 },
                 {
                     "scope": [
-                        "entity.name.function.amstradbasic",
+                        "entity.name.function.zx81basic",
                     ],
                     "settings": {
                         "foreground": "#e98707"
@@ -69,7 +69,7 @@ To change the colors to your liking, just edit `settings.json` global file and a
                 },
                 {
                     "scope": [
-                    "comment.line.amstradbasic",
+                    "comment.line.zx81basic",
                     ],
                     "settings": {
                         "foreground": "#008000",
@@ -77,7 +77,7 @@ To change the colors to your liking, just edit `settings.json` global file and a
                 },
                 {
                     "scope": [
-                        "keyword.operator.logical.amstradbasic"
+                        "keyword.operator.logical.zx81basic"
                     ],
                     "settings":{
                         "foreground": "#8E8E8E",
@@ -87,7 +87,7 @@ To change the colors to your liking, just edit `settings.json` global file and a
                 
                 {
                     "scope": [
-                        "variable.name.amstradbasic"
+                        "variable.name.zx81basic"
                     ],
                     "settings": {
                         "foreground": "#32bacc"
@@ -95,7 +95,7 @@ To change the colors to your liking, just edit `settings.json` global file and a
                 },
                 {
                     "scope": [
-                        "constant.numeric.amstradbasic"
+                        "constant.numeric.zx81basic"
                     ],
                     "settings": {
                         "foreground": "#ffffff"
@@ -117,5 +117,5 @@ To change the colors to your liking, just edit `settings.json` global file and a
 
 ## Acknowledgments
 
-- This is just a port of the awesome [ZX-Basic](https://github.com/jsanjose/zxbasic-vscode) extension
-- The image [`Locomotive_BASIC_amstrad_cpc`](https://en.wikipedia.org/wiki/Locomotive_BASIC#/media/File:Locomotive_BASIC_amstrad_cpc.PNG) was taken from Wikipedia and is released under Public Domain License
+- This is just a port of the awesome [ZX-Basic](https://github.com/jsanjose/zxbasic-vscode) extension and [Amstrad-Basic](https://github.com/dfreniche/amstradbasic-vscode)
+
