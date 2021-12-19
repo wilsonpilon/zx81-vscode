@@ -1,4 +1,11 @@
 # Change Log
+## [1.0.6]
+- Images adjustment
+- Sample program included
+- zxtxt2p tested and included
+- zx81 font included
+- reference guide included
+- small bug fixes
 ## [1.0.5]
 - Adjuste some features
 ## [1.0.4]

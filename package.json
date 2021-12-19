@@ -2,7 +2,7 @@
     "name": "zx81basic",
     "displayName": "ZX81-Basic",
     "description": "ZX81 BASIC syntax highlighting",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "wilsonpilon",
     "engines": {
         "vscode": "^1.12.0"

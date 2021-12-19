@@ -7,9 +7,9 @@ Supports all reserved words from the ZX81 BASIC range.
 
 ![Sample showing colorized code](images/basic.png)
 
-Best results when also using a [CPC font](https://fonts2u.com/download/amstrad-cpc464-regular.font) ;-)
+Best results when also using a [ZX81 font](https://www.dafont.com/zx81.font) ;-)
 
-![Sample showing code with ZX81 code](images/cpc-font.png)
+![Sample showing code with ZX81 code](images/zx81-font.png)
 
 ## Basic
 
