@@ -1,4 +1,6 @@
 # Change Log
+## [1.0.7]
+- tasks.json first version
 ## [1.0.6]
 - Images adjustment
 - Sample program included
